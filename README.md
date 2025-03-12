@@ -1,1 +1,1 @@
-![Header Image](https://github.com/alexeckardt/alexeckardt/raw/master/header.png)
+![Header Image](https://github.com/alexeckardt/alexeckardt/blob/main/header.png)
